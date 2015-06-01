@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+Mercury/FireSim/blendcache_Fire/
+Mercury/Mercury/Library/
+Mercury/Mercury/obj/
+.psd
