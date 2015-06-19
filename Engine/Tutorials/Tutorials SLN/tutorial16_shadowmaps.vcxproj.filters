@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\tutorial16_shadowmaps\tutorial16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\vboindexer.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\common\vboindexer.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\tutorial16_shadowmaps\ShadowMapping.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\tutorial16_shadowmaps\ShadowMapping.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\tutorial16_shadowmaps\DepthRTT.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\tutorial16_shadowmaps\DepthRTT.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\tutorial16_shadowmaps\Passthrough.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\agarcia\Documents\3D\Git\Engine\OpenGL-tutorial_v0014_33\tutorial16_shadowmaps\SimpleTexture.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3F92A6FE-D8E6-41C6-BF26-811B06278964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{B773999D-1B64-419E-A61E-4DFED3D9733D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{770AB0BD-6CE3-43FB-95C1-0DC01C061459}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

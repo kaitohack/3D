@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\agarcia\Documents\3D\Git\Engine\Bin\CMakeFiles\92a22a9c3eb55ca1c9e2146dfcd9a0f3\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{49F09386-698E-4627-8EA8-A0BAA3278BA0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

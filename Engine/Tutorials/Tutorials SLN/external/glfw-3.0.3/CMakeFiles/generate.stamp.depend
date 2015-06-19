@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+C:/Users/agarcia/Documents/3D/Git/Engine/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/CMakeLists.txt
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindDoxygen.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Users/agarcia/Documents/3D/Git/Engine/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/docs/Doxyfile.in
+C:/Users/agarcia/Documents/3D/Git/Engine/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/src/config.h.in
+C:/Users/agarcia/Documents/3D/Git/Engine/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/src/glfwConfig.cmake.in
+C:/Users/agarcia/Documents/3D/Git/Engine/OpenGL-tutorial_v0014_33/external/glfw-3.0.3/src/glfwConfigVersion.cmake.in
